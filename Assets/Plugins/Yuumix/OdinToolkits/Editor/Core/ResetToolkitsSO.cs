@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
-using Plugins.Yuumix.OdinToolkits.Editor.Common.ScriptableSingleton;
 using Sirenix.OdinInspector;
 using UnityEditor;
 using UnityEngine;
-using Yuumix.OdinToolkits.Common;
+using Yuumix.OdinToolkits.Core;
+using Yuumix.OdinToolkits.Editor.Shared;
 
 namespace Yuumix.OdinToolkits.Editor.Core
 {
